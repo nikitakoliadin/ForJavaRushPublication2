@@ -12,7 +12,7 @@ SQL scripts:
 * Initialization scripts
     * [Initialization script](src/main/resources/db/initDB.sql)
 * Populate scripts
-    * [Populate script](src/main/resources/populateDB.sql)
+    * [Populate script](src/main/resources/db/populateDB.sql)
 
 ## Technologies Information
 | Technology     | Badge |

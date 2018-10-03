@@ -1,18 +1,18 @@
 # ForJavaRushPublication2
 
 ## Project Information
-This project was created for [JavaRush](https://javarush.ru/) publication to show how to create jpa entities and entities relationships. I used [H2](http://www.h2database.com/html/main.html) database.
+This project was created for [JavaRush](https://javarush.ru/) publication to show how to create JPA entities and DB relationships. I used [H2](http://www.h2database.com/html/main.html) database.
 
 References to my articles:
 * [Continuous Integration](https://javarush.ru/groups/posts/594-continuous-integration)
 * [Code Coverage](https://javarush.ru/groups/posts/602-codecov)
 * [Markdown](https://javarush.ru/groups/posts/612-markdown)
 
-SQL scripts:
-* Initialization scripts
-    * [Initialization script](src/main/resources/db/initDB.sql)
-* Populate scripts
-    * [Populate script](src/main/resources/db/populateDB.sql)
+See JPA entities and DB relationships in correct branches:
+* [One To One]()
+* [One To Many]()
+* [Many To One]()
+* [Many To Many]()
 
 ## Technologies Information
 | Technology     | Badge |

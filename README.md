@@ -9,10 +9,10 @@ References to my articles:
 * [Markdown](https://javarush.ru/groups/posts/612-markdown)
 
 See JPA entities and DB relationships in correct branches:
-* [One To One]()
-* [One To Many]()
-* [Many To One]()
-* [Many To Many]()
+* [One To One](https://github.com/qThegamEp/ForJavaRushPublication2/tree/OneToOne)
+* [One To Many](https://github.com/qThegamEp/ForJavaRushPublication2/tree/OneToMany)
+* [Many To One](https://github.com/qThegamEp/ForJavaRushPublication2/tree/ManyToOne)
+* [Many To Many](https://github.com/qThegamEp/ForJavaRushPublication2/tree/ManyToMany)
 
 ## Technologies Information
 | Technology     | Badge |
